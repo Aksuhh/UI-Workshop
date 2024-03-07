@@ -193,5 +193,11 @@ html{
     margin-right: 90px;
 }
 .image{
-    padding: 10px 20px 150px 120px;
+    padding: 10px 200px 150px 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.imgg{
+    padding: 10px 200px 150px 120px;
+    text-align: center;
 }
